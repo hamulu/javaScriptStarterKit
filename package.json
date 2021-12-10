@@ -8,10 +8,10 @@
     "dev": "lite-server"
   },
   "author": "",
-  "license": "ISC",
+  "license": "ISC", 
   "dependencies": {
-    "es6-module-loader": "^0.17.11",
-    "traceur": "0.0.108"
+    "es6-module-loader": "^0.17.11", 
+    "traceur": "0.0.108" 
   },
   "devDependencies": {
     "lite-server": "^2.2.0"
